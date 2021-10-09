@@ -1,0 +1,37 @@
+ "370d08585360f5c568b18d1f2e4ca1df" => Gloudemans\Shoppingcart\CartItem {#2773 ▼
+      +rowId: "370d08585360f5c568b18d1f2e4ca1df"
+      +id: 2
+      +qty: 1
+      +name: "Rent"
+      +price: 0.0
+      +options: Gloudemans\Shoppingcart\CartItemOptions {#2774 ▶}
+      -associatedModel: "App\Models\Subscription"
+      -taxRate: 13
+      -isSaved: false
+    }
+    "027c91341fd5cf4d2579b49c4b6a90da" => Gloudemans\Shoppingcart\CartItem {#2775 ▼
+      +rowId: "027c91341fd5cf4d2579b49c4b6a90da"
+      +id: 1
+      +qty: 1
+      +name: "Sale"
+      +price: 11388.0
+      +options: Gloudemans\Shoppingcart\CartItemOptions {#2776 ▶}
+      -associatedModel: "App\Models\Subscription"
+      -taxRate: 13
+      -isSaved: false
+    }
+    "8a48aa7c8e5202841ddaf767bb4d10da" => Gloudemans\Shoppingcart\CartItem {#2777 ▼
+      +rowId: "8a48aa7c8e5202841ddaf767bb4d10da"
+      +id: 6
+      +qty: 1
+      +name: "Off Plan"
+      +price: 17988.0
+      +options: Gloudemans\Shoppingcart\CartItemOptions {#2778 ▶}
+      -associatedModel: "App\Models\Subscription"
+      -taxRate: 13
+      -isSaved: false
+
+
+
+
+https://www.youtube.com/watch?v=OOySLaUFFJE

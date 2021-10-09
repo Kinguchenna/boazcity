@@ -1,0 +1,14 @@
+Victoria Katrich:
+Thank you for waiting. You can access your WHM via VPN or another network and check if your IP is 
+blocked or unblock it this way: 
+
+https://www.namecheap.com/support/knowledgebase/article.aspx/9662/48/how-to-work-with-the-csf-plugin/#whitelisting .
+
+16:33Victoria Katrich:
+Please let me know how it is going or if you wish me to check the IP for blocks for you.
+16:34Abdul Azeez Ahamed:
+pls can you aslo help me with link the get my pc ip adrees?
+16:35Victoria Katrich:
+Sure, here it is: 
+
+https://ip.web-hosting.com/ .
